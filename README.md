@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 streamlit run app.py
 ![WhatsApp Image 2025-07-26 at 00 42 43_bad6b0c4](https://github.com/user-attachments/assets/6b367139-30b6-4288-85e1-ba5254ba2527)
-![WhatsApp Image 2025-07-26 at 00 42 43_f20af33f](https://github.com/user-attachments/assets/a197a58d-7d01-4525-b4e4-68fca365ef8e)
+![WhatsApp Image 2025-07-26 at 00 42 53_3267e302](https://github.com/user-attachments/assets/5962c61a-6cd8-4417-8ae5-7ae3fcf3b284)
 ![WhatsApp Image 2025-07-26 at 00 41 35_47191b70](https://github.com/user-attachments/assets/c67dc6e0-8525-470d-9330-c359766dc8da)
 ![WhatsApp Image 2025-07-26 at 00 41 58_10b2cb3a](https://github.com/user-attachments/assets/32a984a7-086c-481f-bbbc-a5a7c97c5094)
 ![WhatsApp Image 2025-07-26 at 00 42 19_5dbe32a0](https://github.com/user-attachments/assets/c8c0234e-cd47-4bd7-80a0-125b29dc5aea)
