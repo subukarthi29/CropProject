@@ -45,3 +45,5 @@ pip install -r requirements.txt
 3.Run the Streamlit App
 
 streamlit run app.py
+![WhatsApp Image 2025-07-26 at 00 42 43_bad6b0c4](https://github.com/user-attachments/assets/6b367139-30b6-4288-85e1-ba5254ba2527)
+
